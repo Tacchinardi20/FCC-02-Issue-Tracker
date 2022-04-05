@@ -1,2 +1,1 @@
-# FCC-02-Issue-Tracker
-freeCodeCamp-Quality-Assurance-Projects-02 Issue Tracker
+# [Issue Tracker](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/issue-tracker)
